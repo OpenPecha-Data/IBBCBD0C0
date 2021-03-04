@@ -1,15 +1,16 @@
-id: opecha:P000549
+id: P000549
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG869
   title: བོད་ལྗོངས་ཡུལ་སྐོར
-  volume:
+  author: ''
+  volumes:
     32b3280e79034ea38cd353b44114ae13:
       image_group_id: I1KG920
       title: Volume 1 of bod ljongs yul skor
       volume_number: 1
       total_pages: 254
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ལྗོངས་ཡུལ་སྐོར
   author: ''
